@@ -23,6 +23,16 @@ ul {
     border-radius: 15px;
 }
 
-.witch {
-    
+a:link, a:visited {
+    display: inline-block;
+    color: brown;
+    background-color: gainsboro;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 14px 25px;
+    margin: 10px auto;
+    }
+
+a:hover, a:active {
+    background-color: darksalmon;
 }
