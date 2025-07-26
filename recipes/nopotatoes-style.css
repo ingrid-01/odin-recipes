@@ -23,7 +23,7 @@ a:link, a:visited {
     border-radius: 15px;
     text-decoration: none;
     padding: 14px 25px;
-    margin: 10px auto;
+    margin: 10px auto 10px 5px;
     }
 
 a:hover, a:active {
@@ -39,5 +39,21 @@ h2 {
     height: auto;
     border-radius: 15px;
     padding: 12px;
-    margin-right: auto;
+    margin: 10px auto 10px 5px;
+}
+
+h3 {
+    color: saddlebrown;
+    text-align: center;
+    background-color: bisque;
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+    padding: 12px;
+    margin: 5px auto 5px 5px;
+}
+
+img {
+    margin-left: 30px;
+    border-radius: 15px;
 }
