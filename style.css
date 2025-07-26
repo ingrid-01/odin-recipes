@@ -1,0 +1,16 @@
+*,
+*::before,
+*;;after {
+	box-sizing: border-box;
+}
+
+h1 {
+    color: bisque;
+    background-color: saddlebrown;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    text-align: center;
+    padding: 12px;
+    margin: 0 auto;
+}
+
