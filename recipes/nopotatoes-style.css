@@ -29,3 +29,15 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: darksalmon;
 }
+
+h1,
+h2 {
+    color: bisque;
+    text-align: center;
+    background-color: saddlebrown;
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+    padding: 12px;
+    margin-right: auto;
+}
