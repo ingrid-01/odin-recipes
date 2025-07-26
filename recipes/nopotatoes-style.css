@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    font-size: 1.6rem;
+}
+
+a:link, a:visited {
+    display: inline-block;
+    color: brown;
+    background-color: gainsboro;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 14px 25px;
+    margin: 10px auto;
+    }
+
+a:hover, a:active {
+    background-color: darksalmon;
+}

@@ -2,12 +2,12 @@
 *::before,
 *::after {
 	box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     color: bisque;
     background-color: saddlebrown;
-    font-family: Arial, Helvetica, sans-serif;
     border-radius: 15px;
     text-align: center;
     padding: 12px;
@@ -17,7 +17,6 @@ h1 {
 ul {
     color: burlywood;
     background-color: burlywood;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     text-align: center;
     border-radius: 15px;
