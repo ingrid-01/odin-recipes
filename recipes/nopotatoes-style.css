@@ -35,7 +35,7 @@ h2 {
     color: bisque;
     text-align: center;
     background-color: saddlebrown;
-    width: 350px;
+    max-width: 350px;
     height: auto;
     border-radius: 15px;
     padding: 12px;
@@ -46,7 +46,7 @@ h3 {
     color: saddlebrown;
     text-align: center;
     background-color: bisque;
-    width: 350px;
+    max-width: 350px;
     height: auto;
     border-radius: 15px;
     padding: 12px;
@@ -59,7 +59,7 @@ img {
 }
 
 .content {
-    width: 500px;
+    max-width: 500px;
     height: auto;
     margin: 10px auto 10px 40px;
 }
