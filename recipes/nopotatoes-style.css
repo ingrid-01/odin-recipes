@@ -18,8 +18,8 @@ body {
 
 a:link, a:visited {
     display: inline-block;
-    color: brown;
-    background-color: gainsboro;
+    color: #f6cbb6;
+    background-color: #d46a79;
     border-radius: 15px;
     text-decoration: none;
     padding: 14px 25px;
@@ -27,14 +27,14 @@ a:link, a:visited {
     }
 
 a:hover, a:active {
-    background-color: darksalmon;
+    background-color: #78201B;
 }
 
 h1,
 h2 {
-    color: bisque;
+    color: #f6cbb6;
     text-align: center;
-    background-color: saddlebrown;
+    background-color: #472950;
     max-width: 350px;
     height: auto;
     border-radius: 15px;
@@ -43,9 +43,9 @@ h2 {
 }
 
 h3 {
-    color: saddlebrown;
+    color: #472950;
     text-align: center;
-    background-color: bisque;
+    background-color: #f6cbb6;
     max-width: 350px;
     height: auto;
     border-radius: 15px;
