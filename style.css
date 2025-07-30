@@ -6,8 +6,8 @@
 }
 
 h1 {
-    color: bisque;
-    background-color: saddlebrown;
+    color: #f6cbb6;
+    background-color: #472950;
     border-radius: 15px;
     text-align: center;
     padding: 12px;
@@ -15,8 +15,8 @@ h1 {
 }
 
 ul {
-    color: burlywood;
-    background-color: burlywood;
+    background-color: #c0a4c4; 
+    list-style: none;
     font-size: 16px;
     text-align: center;
     border-radius: 15px;
@@ -24,8 +24,8 @@ ul {
 
 a:link, a:visited {
     display: inline-block;
-    color: brown;
-    background-color: gainsboro;
+    color: #f6cbb6;
+    background-color: #d46a79;
     border-radius: 15px;
     text-decoration: none;
     padding: 14px 25px;
@@ -33,5 +33,5 @@ a:link, a:visited {
     }
 
 a:hover, a:active {
-    background-color: darksalmon;
+    background-color: #78201B; 
 }
